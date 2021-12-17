@@ -152,6 +152,10 @@
                     "description": "e.g. viral advertising"
                   }
                 },
+                "url": {
+                  "type": "string",
+                  "description": "e.g. Virl advertising demo link"
+                },
                 "summary": {
                   "type": "string",
                   "description": "e.g. Increased profits by 20% from 2011-2012 through viral advertising"
